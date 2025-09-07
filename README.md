@@ -1,7 +1,8 @@
 XAU/USD Gold Price Predictor
 Forecasting System for September 2025
 
-XAU/USD forecasting system combines multiple methodologies to provide Gold price predictions for September 2025. The ensemble approach use strengths of different models.
+Combines multiple methodologies to provide Gold price predictions for September 2025. 
+The ensemble approach use strengths of different models.
 
 Data Source: Twelve Data API
 https://twelvedata.com/markets/300755/commodity/xau-usd
